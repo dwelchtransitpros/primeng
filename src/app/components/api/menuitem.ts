@@ -1,4 +1,4 @@
-import { QueryParamsHandling } from '@angular/router';
+import { QueryParamsHandling } from '@angular/router/src/config';
 
 export interface MenuItem {
     label?: string;
