@@ -1,4 +1,4 @@
-import { QueryParamsHandling } from '@angular/router';
+import { QueryParamsHandling } from '@angular/router/src/config';
 import { MenuItem } from './menuitem';
 
 export interface MegaMenuItem {
